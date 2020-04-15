@@ -165,7 +165,6 @@ djvulibre,,Documents,Documents and texts,Readers and viewers,PDF and DjVu,DjVu t
 djvulibre,,Documents,Documents and texts,Readers and viewers,PDF and DjVu,DjVu tools,Convert DjVu to images,
 #scantailor,,Documents,Documents and texts,Readers and viewers,PDF and DjVu,DjVu tools,Processing images,
 img2djvu-git,AUR,Documents,Documents and texts,Readers and viewers,PDF and DjVu,DjVu tools,Make DjVu from images,
-ps2pdf,,Documents,Documents and texts,Readers and viewers,PDF and DjVu,PostScript tools,,
 calibre,,Documents,Documents and texts,Readers and viewers,E-book,,,
 nmap,,Security,Network security,,,,,
 sshguard,,Security,Network security,,,,,

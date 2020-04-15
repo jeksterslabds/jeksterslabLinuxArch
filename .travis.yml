@@ -9,7 +9,7 @@ archlinux:
   - wget
   - git
   script:
-  - git clone git@github.com:jeksterslabds/jeksterslabShell.git
-  - export PATH="$PATH:jeksterslabShell/src"
-  - bash pacman_install -f -d packages.csv
+  - 'git clone git@github.com:jeksterslabds/jeksterslabShell.git'
+  - 'export PATH="$PATH:jeksterslabShell/src"'
+  - 'bash pacman_install -f -d packages.csv'
 script: 'curl -s https://raw.githubusercontent.com/mikkeloscar/arch-travis/master/arch-travis.sh | bash'

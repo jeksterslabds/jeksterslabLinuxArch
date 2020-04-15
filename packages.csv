@@ -151,7 +151,7 @@ zathura,,Documents,Documents and texts,Readers and viewers,PDF and DjVu,Viewers,
 zathura-cb,,Documents,Documents and texts,Readers and viewers,PDF and DjVu,Viewers,Graphical,Comicbook support
 zathura-djvu,,Documents,Documents and texts,Readers and viewers,PDF and DjVu,Viewers,Graphical,DjVu support
 zathura-pdf-mupdf,,Documents,Documents and texts,Readers and viewers,PDF and DjVu,Viewers,Graphical,"EPUB, PDF and XPS support based on MuPDF"
-zathura-pdf-poppler,,Documents,Documents and texts,Readers and viewers,PDF and DjVu,Viewers,Graphical,PDF support based on Poppler
+#zathura-pdf-poppler,,Documents,Documents and texts,Readers and viewers,PDF and DjVu,Viewers,Graphical,PDF support based on Poppler
 zathura-ps,,Documents,Documents and texts,Readers and viewers,PDF and DjVu,Viewers,Graphical,PostScript support
 pdftk,,Documents,Documents and texts,Readers and viewers,PDF and DjVu,PDF tools,,
 qpdf,,Documents,Documents and texts,Readers and viewers,PDF and DjVu,PDF tools,,

@@ -12,5 +12,5 @@ archlinux:
   - 'git clone https://github.com/jeksterslabds/jeksterslabShell.git'
   - 'export PATH="$PATH:jeksterslabShell/src"'
   - 'sudo pacman_install -f -d packages.csv'
-  - 'sudo aur_install -f -d packages.csv'
+  - 'aur_install -f -d packages.csv'
 script: 'curl -s https://raw.githubusercontent.com/mikkeloscar/arch-travis/master/arch-travis.sh | bash'

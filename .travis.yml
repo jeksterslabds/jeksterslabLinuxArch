@@ -1,0 +1,10 @@
+os: linux
+dist: xenial
+language: shell
+sudo: required
+services:
+- docker
+archlinux:
+  script:
+  - bash https://raw.githubusercontent.com/jeksterslabds/jeksterslabShell/master/src/pacman_install -f -d packages.csv
+script: 'curl -s https://raw.githubusercontent.com/mikkeloscar/arch-travis/master/arch-travis.sh | bash'
